@@ -1,0 +1,28 @@
+a.nav-link{
+  display: block;
+  text-align: center;
+  width: 100% !important;
+}
+.navbar-brand.logo{
+  font-weight: 100;
+  letter-spacing: 1px;
+  font-style: italic;
+  font-family:sans-serif;
+  text-shadow: 3px 3px 2px  #00000055;
+}
+ul li{
+  padding: 1px 10px !important;
+  cursor:pointer;
+}
+ul li.active{
+  background: #00000055;
+  border-radius: 10px;
+}
+.gradient{
+  background: linear-gradient(120deg,#32de42,#4232de) !important;
+}
+.btn-outline-primary{
+  background: linear-gradient(45deg,#32de42,#4232de) !important;
+  color:#ffffff;
+  font-weight: 500;
+}

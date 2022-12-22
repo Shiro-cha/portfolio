@@ -1,0 +1,12 @@
+.about-me p{
+  font-weight: 400 !important;
+  color: #606060;
+}
+
+.about-me p strong{
+  color: #202020;
+  font-weight: 500 !important;
+}
+.avatar{
+  cursor: pointer;
+}
